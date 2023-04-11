@@ -7,4 +7,4 @@ Compares MD5 hash of source & replica files, updates replica file to match sourc
 
 ## Usage:
 
-`python directory_sync.py [source directory path] [replica directory path] [sync interval] [log file path]`
+`python directory_sync.py [source directory path] [replica directory path] [sync interval (secs)] [log file path]`
